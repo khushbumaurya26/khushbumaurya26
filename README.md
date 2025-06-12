@@ -3,7 +3,7 @@
 - 📚 Currently deepening my backend knowledge and learning full-stack app deployment  
 - 💡 Created projects like Blood Connect (MERN), Steezy Studio, and a responsive calculator  
 - 🎯 Interested in UI/UX design, frontend frameworks, and real-world problem solving  
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/khushbumaurya)  
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/khushbumaurya26)  
 - 🎨 Fun fact: I mix dance and design into my coding routine — creativity is my superpower!  
 
 
