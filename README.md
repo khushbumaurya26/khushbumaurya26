@@ -1,5 +1,5 @@
 - 👩‍🎓 MCA student at Chandigarh University passionate about web development  
-- 👩‍💻 Skilled in Java, JavaScript, HTML, CSS, React, Node.js, and Spring Boot  
+- 👩‍💻 Skilled in Java, Python, MERN Stack, JavaScript, HTML, CSS, and currently learning Spring Boot  
 - 📚 Currently deepening my backend knowledge and learning full-stack app deployment  
 - 💡 Created projects like Blood Connect (MERN), Steezy Studio, and a responsive calculator  
 - 🎯 Interested in UI/UX design, frontend frameworks, and real-world problem solving  
